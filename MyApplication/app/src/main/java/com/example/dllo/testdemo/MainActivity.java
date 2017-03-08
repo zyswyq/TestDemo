@@ -6,7 +6,6 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     /**
-     * 组长写的
      * @param savedInstanceState
      */
     @Override
